@@ -1,0 +1,13 @@
+Reactividad en Vue 3
+
+Las funciones Ref y Reactive. En sí dichas funciones comparten similitudes
+en cuanto a la creación de datos reactivos, pero su principal diferencia radica
+en como se comportan cada uno de ellos.
+
+Por un lado está 'ref', en el cual es utilizado como una referencia a un valor
+simple o un objeto, mientras que por su contraparte, la declaración 'reactive'
+solo posee la capacidad de almacenar objetos.
+
+Enlaces usados como referencia:
+- https://dev.to/diseyi/ref-vs-reactive-how-vue-3-declares-reactive-data-ebf
+- https://stackoverflow.com/questions/61452458/ref-vs-reactive-in-vue-3
